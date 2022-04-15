@@ -1,10 +1,10 @@
 # Exploratory Data Analysis on Telco Customer Churn
-##### [Posted on medium](https://medium.com/@roberdmanihuruk17/)
+##### [Posted on medium](https://medium.com/@roberdmanihuruk17/telcos-costumer-churn-exploratory-data-analysis-7dd813b2fef)
 
 
 Standard exploratory data analysis with interpretations on telco customer churn.
 
-The data used in this analysis is an open source dataset [WA_Fn-UseC_-Telco-Customer-Churn.csv](https://github.com/roberdmanihuruk/education_income_hypothesis_testing/blob/main/marketing_campaign.csv) or can be found on this [link.](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+The data used in this analysis is an open source dataset [WA_Fn-UseC_-Telco-Customer-Churn.csv](WA_Fn-UseC_-Telco-Customer-Churn.csv) or can be found on this [link.](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 
 
